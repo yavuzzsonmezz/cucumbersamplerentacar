@@ -19,8 +19,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b733f42-ec8f-4ec6-83c8-146190039552" name="Default Changelist" comment="Configuration.properties file cleaned from unnecessary lines">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="2b733f42-ec8f-4ec6-83c8-146190039552" name="Default Changelist" comment="workspace.xml is removed from git.ignore file">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664645964429</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="workspace.xml is removed from git.ignore file">
+      <created>1664646305411</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664646305411</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,7 +131,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="collaboration" />
     <MESSAGE value="Configuration.properties file cleaned from unnecessary lines" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configuration.properties file cleaned from unnecessary lines" />
+    <MESSAGE value="workspace.xml is removed from git.ignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml is removed from git.ignore file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="128" y="90" key="MergeDialog" timestamp="1664593631114">
@@ -135,13 +143,13 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="277" y="180" key="MultipleFileMergeDialog/0.23.1280.777@0.23.1280.777" timestamp="1664593659132" />
-    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1664646077117">
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1664646322501">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1664646077117" />
-    <state x="432" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1664645827232">
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1664646322501" />
+    <state x="432" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1664646500590">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="432" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1664645827232" />
+    <state x="432" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1664646500590" />
   </component>
 </project>
