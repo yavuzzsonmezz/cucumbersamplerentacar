@@ -99,11 +99,24 @@
             <version>7.3.4</version>
             <scope>test</scope>
         </dependency>
+<<<<<<< HEAD
     </dependencies>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
+=======
+    </dependencies><properties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+</properties>
+
+
+
+
+
+
+>>>>>>> bfa38742aa3f5bde46f435a9a85cafa8fb78431a
 
 
     <!-- paste plugins after dependencies tag-->
