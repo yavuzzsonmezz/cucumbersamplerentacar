@@ -1,0 +1,8 @@
+Feature: RentACarLogIn
+  Scenario: Test02_LogIn
+    Given user navigate to the page
+    When user clicks on Signup button
+    And user verifies New User Signup is visible
+    And user enters email
+    And user enters name
+    Then user enters on Signup button
